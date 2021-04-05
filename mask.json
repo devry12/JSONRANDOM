@@ -5,5 +5,26 @@
   "password": "coba",
   "name": "Japan",
   "country_code":"jp"
+},
+  {
+  "config": "assets/vpn/singapore.ovpn",
+  "username": "vpnsplit.com-109487914981453",
+  "password": "firevpn",
+  "name": "Singapore",
+  "country_code":"sg"
+},
+  {
+  "config": "assets/vpn/canada.ovpn",
+  "username": "vpnsplit.com-109487914981453",
+  "password": "firevpn",
+  "name": "Canada",
+  "country_code":"ca"
+},
+    {
+  "config": "assets/vpn/france.ovpn",
+  "username": "vpnsplit.com-109487914981453",
+  "password": "firevpn",
+  "name": "France",
+  "country_code":"fr"
 }
 ]
